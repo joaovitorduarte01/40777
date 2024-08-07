@@ -5,7 +5,7 @@
 - 📫 How to reach me? My instagram is @joaovitor__duarte
 
 <div align="center">
-  <a href="https://github.com/40777">
+  <a href="https://github.com/joaovitorduarte01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=40777&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=40777&layout=compact&langs_count=7&theme=dark"/>
 </div>
